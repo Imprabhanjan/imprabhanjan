@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python,pyspark**
 
-- 👯 I’m looking to collaborate on **others**
+- 👯 I’m looking to collaborate with others.
 
 - 📫 How to reach me **kulkarniprabhanjan8008@gmail.com**
 
